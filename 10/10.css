@@ -1,0 +1,163 @@
+body {
+    margin: 0;
+    font-family: Roboto;
+    font-weight: 400;
+}
+.frame1{
+    padding-top: 24px;
+    padding-left: 25px;
+    display: flex;
+    width: 1200px;
+    height: 250px;
+    background-color: #fbfbfb;
+    margin-left: 120px;
+    margin-top: 91px;
+}
+.box1{
+    width: 204px;
+    height: 202px;
+    margin-right: 61px;
+}
+.spann{
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: left;    
+    color: #3d3d3d;
+    margin-top: 15.07px;
+    margin-bottom: 9.04px;
+}
+.pp{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: #727272;
+}
+.spann1{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: left;
+    color: #3d3d3d;
+    margin-bottom: 25px;
+}
+.pp1{
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: #727272;
+    margin-top: 18px;
+    margin-bottom: 25px;
+}
+.input1{
+    width: 259px;
+    height: 40px;
+    border: 1px ;
+    background: #ffffff;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    text-align: left;   
+    box-shadow: 0px 0px 20px 0px #0000000F;
+}
+.join{
+    width: 85px;
+    height: 40px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: left;
+    color: #ffffff;
+    border: 1px solid;
+    border-radius: 5px;
+    background: #46A358;
+}
+.gradient{
+    margin-left: 120px;
+    width: 1225px;
+    height: 88px;
+    background: linear-gradient(90deg, #fbfbfb 0%, #52C368 100%);
+    display:flex;
+    justify-content: space-between;
+}
+.gpics{
+    display: flex;
+    align-items: center;
+    margin-left: 25px;
+    margin-right: 25px;
+    height: 88px;
+}
+.gtext{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: #3d3d3d; 
+}
+.icons{
+    color: #46A358;
+    font-size: 20px;
+    margin-right: 9px;
+}
+.frame2{
+    display: flex;
+    width: 1225px;
+    height: 236px;
+    background-color: #fbfbfb;
+    margin-left: 120px;
+    justify-content: space-between;
+}
+.textframe{
+    padding-top: 33px;
+    padding-left: 25px;
+}
+.tf1{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: left;  
+    color: #3d3d3d;
+    margin: 0;
+    margin-bottom: 8px;
+}
+.tf2{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;  
+    color: #3d3d3d; 
+    margin: 0;
+}
+.social{
+    color: #46A35899;
+    font-size: 30px;
+    padding-right: 10px;
+}
+.newframe{
+    padding-top: 33px;
+    padding-right: 25px;
+    width: 224px;
+    height: 124px;
+}
+.tff1{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 16px;
+    text-align: left;  
+    color: #3d3d3d;
+    padding-top: 33px; 
+    margin: 0; 
+}
+.pay{
+    padding-top: 13px;
+}
+.rights{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-left: 675px;
+    color: #3d3d3d;
+}
